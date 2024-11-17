@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'convert_to_django.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'crud_operations',
+        'NAME': 'convert_to_django',
         'USER':'root',
         'PASSWORD':'',
         'HOST':'127.0.0.1',
